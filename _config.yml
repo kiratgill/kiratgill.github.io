@@ -2,7 +2,7 @@
 title:               'Gurkirat Gill'
 tagline:             'MEng student at The Universite of Calgary'
 description:         'Collection of my thoughts about anything I find interesting'
-url:                 http://kiratgill.github.io/
+url:                 https://kiratgill.github.io/
 baseurl:             ''
 paginate:            5
 paginate_path:       '/blog/page:num/'
