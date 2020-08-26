@@ -1,0 +1,30 @@
+# Setup
+title:               'Gurkirat Gill'
+tagline:             'MEng student at The Universite of Calgary'
+description:         'Collection of my thoughts about anything I find interesting'
+url:                 http://gurkiratgill.github.io/
+baseurl:             ''
+paginate:            5
+paginate_path:       '/blog/page:num/'
+
+# Permalink
+permalink:           pretty
+
+# About/contact
+author:
+  name:              'Gurkirat Gill'
+  url:               https://github.com/Gurkirat21
+  email:             'gurkiratgill98@gmail.com'
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Dependencies
+markdown:           kramdown
+highlighter:        rouge
+
+# Custom vars
+# google_analytics_id: #UA-XXXX-Y
