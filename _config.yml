@@ -2,7 +2,7 @@
 title:               'Gurkirat Gill'
 tagline:             'MEng student at The Universite of Calgary'
 description:         'Collection of my thoughts about anything I find interesting'
-url:                 http://gurkiratgill.github.io/
+url:                 http://kiratgill.github.io/
 baseurl:             ''
 paginate:            5
 paginate_path:       '/blog/page:num/'
@@ -13,7 +13,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              'Gurkirat Gill'
-  url:               https://github.com/Gurkirat21
+  url:               https://github.com/kiratgill
   email:             'gurkiratgill98@gmail.com'
 
 # Gems
