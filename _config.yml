@@ -15,6 +15,8 @@ author:
   name:              'Gurkirat Gill'
   url:               https://github.com/kiratgill
   email:             'gurkiratgill98@gmail.com'
+  email_md5:         ee13893392c20fc3f1fceeead14df04a
+  github:            'https://github.com/kiratgill'
 
 # Gems
 plugins:
@@ -27,4 +29,4 @@ markdown:           kramdown
 highlighter:        rouge
 
 # Custom vars
-# google_analytics_id: #UA-XXXX-Y
+google_analytics_id: UA-176594710-1
