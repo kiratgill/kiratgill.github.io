@@ -1,0 +1,25 @@
+thanks for using faviconit!
+copy the files to your site and add this code inside the HTML <HEAD> tag:
+
+	<!-- ****** faviconit.com favicons ****** -->
+	<link rel="shortcut icon" href="/Gurkirat_GIll.ico">
+	<link rel="icon" sizes="16x16 32x32 64x64" href="/Gurkirat_GIll.ico">
+	<link rel="icon" type="image/png" sizes="196x196" href="/Gurkirat_GIll-192.png">
+	<link rel="icon" type="image/png" sizes="160x160" href="/Gurkirat_GIll-160.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/Gurkirat_GIll-96.png">
+	<link rel="icon" type="image/png" sizes="64x64" href="/Gurkirat_GIll-64.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/Gurkirat_GIll-32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/Gurkirat_GIll-16.png">
+	<link rel="apple-touch-icon" href="/Gurkirat_GIll-57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/Gurkirat_GIll-114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/Gurkirat_GIll-72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/Gurkirat_GIll-144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/Gurkirat_GIll-60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/Gurkirat_GIll-120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/Gurkirat_GIll-76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/Gurkirat_GIll-152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/Gurkirat_GIll-180.png">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="/Gurkirat_GIll-144.png">
+	<meta name="msapplication-config" content="/browserconfig.xml">
+	<!-- ****** faviconit.com favicons ****** -->
