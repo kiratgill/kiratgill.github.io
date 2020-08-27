@@ -1,3 +1,8 @@
+---
+layout: post
+title: Molecular Biology
+comments: true
+---
 
 # Table of Contents
 
